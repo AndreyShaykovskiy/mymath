@@ -1,7 +1,8 @@
 # Go Kata
 > Внимание!
 > Перед началом, нужно сделать fork данного репозитория в свой аккаунт.
-> Далее пройти в Project information -> Members и добавить в проект группу `kata-golang` с правами `Developer`.
+> Далее пройти в Project information -> Members и добавить в проект группу `go-mentor` с правами `Maintainer`.
+> Инициализируйте модули `go mod init studentgit.kata.academy/<your_username>/kata-golang`
 
 В репозитории присутствует .gitlab-ci.yml, который запускает тесты при каждом push в репозиторий.
 
