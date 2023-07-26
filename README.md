@@ -24,6 +24,7 @@
 1. Google: `golang length of string`
 2. Google: `golang slice internals`
 3. Google: `golang how to create api server`
+4. Google: `golang interface internals habr` - для поиска по habr
 
 ## Дополнительные ссылки:
 1. [go.ptflp.ru](https://go.ptflp.ru) - старые материалы курса
