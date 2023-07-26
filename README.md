@@ -2,7 +2,11 @@
 > Внимание!
 > Перед началом, нужно сделать fork данного репозитория в свой аккаунт.
 > Далее пройти в Project information -> Members и добавить в проект участника `go-mentor` с правами `Maintainer`.
-> Инициализируйте модули `go mod init studentgit.kata.academy/<your_username>/kata-golang`
+
+> Сделайте git clone вашего репозитория в $GOPATH/src/studentgit.kata.academy/<your_username>/go-kata
+> Инициализируйте модули `go mod init studentgit.kata.academy/<your_username>/go-kata
+
+> Рекомендуемая версия golang - 1.19
 
 В репозитории присутствует .gitlab-ci.yml, который запускает тесты при каждом push в репозиторий.
 
