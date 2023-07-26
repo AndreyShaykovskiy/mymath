@@ -21,9 +21,9 @@
 Старайтесь искать дополнительную информацию в гугл на английском языке. Все термины, которые вам понадобятся, будут на английском языке. Поэтому лучше сразу привыкать к ним.
 
 ### Пример поиска
-1. Google: `golang how to get length of string`
-2. Google: `golang how to get length of array`
-3. etc.
+1. Google: `golang length of string`
+2. Google: `golang slice internals`
+3. Google: `golang how to create api server`
 
 ## Дополнительные ссылки:
 1. [go.ptflp.ru](https://go.ptflp.ru) - старые материалы курса
