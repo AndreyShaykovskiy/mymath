@@ -23,6 +23,10 @@
 6. Если тесты прошли успешно, то merge request будет принят
 7. Смержите ветку dev в ветку main
 
+## Результат приема задачи
+Результат задачи вы можете посмотреть в меню CI/CD -> Pipelines
+![image-1.png](./image-1.png)
+
 ## Merge request
 ![image.png](./image.png)
 
