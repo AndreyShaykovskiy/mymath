@@ -8,7 +8,8 @@
 *** В случае нарушения, студент будет исключен по пункту о списывании ***
 
 > Сделайте git clone вашего репозитория в $GOPATH/src/studentgit.kata.academy/<your_username>/go-kata
-> Инициализируйте модули `go mod init studentgit.kata.academy/<your_username>/go-kata
+> Инициализируйте модули в корне проекта `go mod init studentgit.kata.academy/<your_username>/go-kata 
+> В репозитории должен присутствовать один файл go.mod и go.sum на весь проект
 
 > Рекомендуемая версия golang - 1.19
 
