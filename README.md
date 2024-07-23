@@ -1,11 +1,6 @@
 # Go Kata
-> Внимание!
-> Перед началом, нужно сделать fork данного репозитория в свой аккаунт.
-> Далее пройти в Project information -> Members и добавить в проект участника `go-mentor` с правами `Maintainer`.
 
 *** ЗАПРЕЩЕНО ВЫКЛАДЫВАТЬ РЕПОЗИТОРИЙ В ОТКРЫТЫЙ ДОСТУП! ***
-
-*** В случае нарушения, студент будет исключен по пункту о списывании ***
 
 > Сделайте git clone вашего репозитория в $GOPATH/src/studentgit.kata.academy/<your_username>/go-kata
 > Инициализируйте модули в корне проекта `go mod init studentgit.kata.academy/<your_username>/go-kata 
